@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1654451076 source:c:\users\vive\documents\codeblocks projects\linkedlistassignment\main.c
+	<stdio.h>
+	<stdlib.h>
+
